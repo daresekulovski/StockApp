@@ -53,9 +53,8 @@ public class OrderProcessor
                         AddVolume(MarketState.PendingSellVolume, symbol, -sell.Quantity);
 
                         var qty = Math.Min(buy.Quantity, sell.Quantity);
-                        var tradePrice = MarketState.CurrentPrices[symbol];
 
-                        Console.WriteLine($"[MATCH] {symbol} {qty} @ {tradePrice:F2} | Buyer {buy.TraderId} / Seller {sell.TraderId}");
+                        //Console.WriteLine($"[MATCH] {symbol} {qty} @ {tradePrice:F2} | Buyer {buy.TraderId} / Seller {sell.TraderId}");
                         
                         if (buy.Quantity > qty)
                         {

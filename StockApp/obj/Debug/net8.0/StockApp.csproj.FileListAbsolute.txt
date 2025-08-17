@@ -39,3 +39,4 @@ C:\Users\Darko\RiderProjects\StockApp\StockApp\obj\Debug\net8.0\refint\StockApp.
 C:\Users\Darko\RiderProjects\StockApp\StockApp\obj\Debug\net8.0\StockApp.pdb
 C:\Users\Darko\RiderProjects\StockApp\StockApp\obj\Debug\net8.0\StockApp.genruntimeconfig.cache
 C:\Users\Darko\RiderProjects\StockApp\StockApp\obj\Debug\net8.0\ref\StockApp.dll
+C:\Users\Darko\RiderProjects\StockApp\StockApp\obj\Debug\net8.0\StockApp.sourcelink.json
