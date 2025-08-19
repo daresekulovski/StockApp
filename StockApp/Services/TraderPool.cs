@@ -61,7 +61,7 @@ public sealed class TraderPool
             {
                 BootstrapServers = KafkaClients.Bootstrap,
                 GroupId = "trader-pool-consumer",
-                AutoOffsetReset = AutoOffsetReset.Latest,
+                AutoOffsetReset = AutoOffsetReset.Earliest,
                 EnableAutoCommit = true
             };
             using var consumer = new ConsumerBuilder<string, string>(cfg).Build();

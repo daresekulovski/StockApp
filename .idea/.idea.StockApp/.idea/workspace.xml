@@ -8,9 +8,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3a2044f-c039-4517-b660-d9fe6b9f5e31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.StockApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.StockApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/Services/TraderPool.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/Services/TraderPool.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/Confluent.Kafka.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/Confluent.Kafka.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/StockApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-arm64/native/librdkafka.so" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-arm64/native/librdkafka.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/alpine-librdkafka.so" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/alpine-librdkafka.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/centos8-librdkafka.so" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/centos8-librdkafka.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/librdkafka.so" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/linux-x64/native/librdkafka.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/osx-arm64/native/librdkafka.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/osx-arm64/native/librdkafka.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/osx-x64/native/librdkafka.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/osx-x64/native/librdkafka.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libcrypto-3-x64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libcrypto-3-x64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libcurl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libcurl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/librdkafka.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/librdkafka.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/librdkafkacpp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/librdkafkacpp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libssl-3-x64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/libssl-3-x64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/msvcp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/zlib1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/zlib1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/zstd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x64/native/zstd.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libcrypto-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libcrypto-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libcurl.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libcurl.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/librdkafka.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/librdkafka.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/librdkafkacpp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/librdkafkacpp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libssl-3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/libssl-3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/msvcp140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/msvcp140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/vcruntime140.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/vcruntime140.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/zlib1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/zlib1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/zstd.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/bin/Debug/net8.0/runtimes/win-x86/native/zstd.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/StockApp.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/ref/StockApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/ref/StockApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/refint/StockApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/Debug/net8.0/refint/StockApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/StockApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/StockApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/StockApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/StockApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StockApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/StockApp/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +75,7 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/StockApp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,7 +87,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/daresekulovski/StockApp.git&quot;,
-    &quot;accountId&quot;: &quot;c2991116-f108-4dbc-b850-f1a950e03116&quot;
+    &quot;accountId&quot;: &quot;462ece0d-9685-4922-8131-a0f74d391e58&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -58,22 +106,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.StockApp.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.StockApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "bigdataide_conn_settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="StockApp" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -108,6 +156,8 @@
       <updated>1755191501181</updated>
       <workItem from="1755191502406" duration="7079000" />
       <workItem from="1755199282604" duration="116000" />
+      <workItem from="1755622815712" duration="1493000" />
+      <workItem from="1755624716196" duration="1892000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />

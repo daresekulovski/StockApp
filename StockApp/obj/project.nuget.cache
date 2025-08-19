@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "W6irGTUHmDA=",
+  "dgSpecHash": "4Gvl/cQubL0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\StockApp.csproj",
+  "projectFilePath": "/Users/darko/RiderProjects/StockApp/StockApp/StockApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Darko\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
-    "C:\\Users\\Darko\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512"
+    "/Users/darko/.nuget/packages/confluent.kafka/2.11.0/confluent.kafka.2.11.0.nupkg.sha512",
+    "/Users/darko/.nuget/packages/librdkafka.redist/2.11.0/librdkafka.redist.2.11.0.nupkg.sha512"
   ],
   "logs": []
 }

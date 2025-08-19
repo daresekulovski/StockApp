@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\StockApp.csproj": {}
+    "/Users/darko/RiderProjects/StockApp/StockApp/StockApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\StockApp.csproj": {
+    "/Users/darko/RiderProjects/StockApp/StockApp/StockApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\StockApp.csproj",
+        "projectUniqueName": "/Users/darko/RiderProjects/StockApp/StockApp/StockApp.csproj",
         "projectName": "StockApp",
-        "projectPath": "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\StockApp.csproj",
-        "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Darko\\RiderProjects\\StockApp\\StockApp\\obj\\",
+        "projectPath": "/Users/darko/RiderProjects/StockApp/StockApp/StockApp.csproj",
+        "packagesPath": "/Users/darko/.nuget/packages/",
+        "outputPath": "/Users/darko/RiderProjects/StockApp/StockApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/darko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Darko\\.dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/darko/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

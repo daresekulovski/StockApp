@@ -1,7 +1,7 @@
 ﻿using StockApp.Services;
 
 using var cts = new CancellationTokenSource();
-Console.CancelKeyPress += (_, e) => { e.Cancel = true; cts.Cancel(); };
+Console.CancelKeyPress += (_, __) => { __.Cancel = true; cts.Cancel(); };
 
 await StockUpdatePublisher.PublishInitialAsync(cts.Token);
 
